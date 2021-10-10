@@ -1,4 +1,4 @@
-make,fuel_type,body-style,curb-weight,num-of-cylinders,engine-size,horsepower,city-mpg,highway-mpg,price
+make,fuel-type,body-style,curb-weight,num-of-cylinders,engine-size,horsepower,city-mpg,highway-mpg,price
 alfa-romero,gas,convertible,2548,four,130,111,21,27,13495
 alfa-romero,gas,convertible,2548,four,130,111,21,27,16500
 alfa-romero,gas,hatchback,2823,six,152,154,19,26,16500
